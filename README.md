@@ -1,4 +1,4 @@
-# Typing Speed Test
+# Typing Speed Test App
 
 An interactive typing speed test application designed to help users improve their typing skills through real-time feedback and performance metrics. The app presents dynamic quotes for typing within a timed session and tracks key statistics such as time left, mistakes, words per minute (WPM), and accuracy.
 
